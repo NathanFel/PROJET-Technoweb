@@ -142,7 +142,7 @@ async function main(){
 
 
     return 'done!';
-}
+} 
 
 main()
 .then(console.log)
