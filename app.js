@@ -28,7 +28,7 @@ async function main(){
             },
             {
                 name : 'Jules',
-                age : 26,
+                age : 26, 
                 sexe : 'H',
                 country : 'France',
             },
